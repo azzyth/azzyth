@@ -30,7 +30,7 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 ## Tech Stack
 
-**Languages:** Python · SQL
+**Languages:** Python · SQL · GO
 
 **ML / DL:** scikit-learn · LightGBM · PyTorch · TensorFlow/Keras
 
