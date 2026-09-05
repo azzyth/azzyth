@@ -14,11 +14,11 @@
 
 I'm a Data Science student at **Telkom University** who loves turning raw data into working models. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I focus on the full pipeline:
 
-- **Preprocessing** — cleaning, parsing messy real-world data
-- **Feature engineering** — text (TF-IDF, embeddings), time-series, graph/network features
-- **Machine learning** — LightGBM, RandomForest, HistGradientBoosting, linear models
-- **Deep learning** — PyTorch MLPs, TensorFlow/Keras, IndoBERT & multilingual SBERT
-- **Ensembling** — OOF blending, weighted ensembles, rankers
+- **Preprocessing**  cleaning, parsing messy real-world data
+- **Feature engineering**  text (TF-IDF, embeddings), time-series, graph/network features
+- **Machine learning**  LightGBM, RandomForest, HistGradientBoosting, linear models
+- **Deep learning**  PyTorch MLPs, TensorFlow/Keras, IndoBERT & multilingual SBERT
+- **Ensembling**  OOF blending, weighted ensembles, rankers
 
 ##  Competition Portfolio
 
