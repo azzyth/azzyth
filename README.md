@@ -24,9 +24,9 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 | Competition | Type | Metric | Rank | Repo |
 |-------------|------|--------|------|------|
-| Kaggle Datathon — Traffic Speed Forecasting | Time-series regression + NLP + graph | Speed RMSE | 234 / 276 | [repo](https://github.com/azzyth/kaggle-traffic-speed-forecasting) |
-| Kaggle Datathon Task 2 — Wikipedia Next-Click Prediction | OCR + NLP classification | Ranking | 126 / 282 | [repo](https://github.com/azzyth/kaggle-wikipedia-click-prediction) |
-| Lomba Data IPB — AI Course Advisor | Learning-to-rank / recommendation | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
+| Kaggle Datathon   Traffic Speed Forecasting | Time-series regression + NLP + graph | Speed RMSE | 234 / 276 | [repo](https://github.com/azzyth/kaggle-traffic-speed-forecasting) |
+| Kaggle Datathon Task 2   Wikipedia Next-Click Prediction | OCR + NLP classification | Ranking | 126 / 282 | [repo](https://github.com/azzyth/kaggle-wikipedia-click-prediction) |
+| Lomba Data IPB   AI Course Advisor | Learning-to-rank / recommendation | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
 
 ## Tech Stack
 
