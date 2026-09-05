@@ -42,8 +42,7 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 - 🏅 Kaggle: *(https://www.kaggle.com/alrazzyth)*
 - 💼 LinkedIn: *(https://www.linkedin.com/in/alrazzy-t-h-359417237/)*
-- 📱 Instagram: *
-  (https://www.instagram.com/joeybinwsg?igsi=ejgyYWQ4ZjU0ZGh0)*
+- 📱 Instagram: *(https://www.instagram.com/joeybinwsg?igsi=ejgyYWQ4ZjU0ZGh0)*
 
 ---
 
