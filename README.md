@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me ˙𐃷˙
 
 I'm a Data Science student at **Telkom University** who loves turning raw data into working models. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I focus on the full pipeline:
 
@@ -20,7 +20,7 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 - **Deep learning** — PyTorch MLPs, TensorFlow/Keras, IndoBERT & multilingual SBERT
 - **Ensembling** — OOF blending, weighted ensembles, rankers
 
-## 🏆 Competition Portfolio
+##  Competition Portfolio
 
 | Competition | Type | Metric | Rank | Repo |
 |-------------|------|--------|------|------|
@@ -28,7 +28,7 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 | Kaggle Datathon Task 2 — Wikipedia Next-Click Prediction | OCR + NLP classification | Ranking | 126 / 282 | [repo](https://github.com/azzyth/kaggle-wikipedia-click-prediction) |
 | Lomba Data IPB — AI Course Advisor | Learning-to-rank / recommendation | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python · SQL
 
@@ -38,15 +38,16 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 **Data:** pandas · NumPy · matplotlib · seaborn
 
-## 📫 Let's Connect
+##  Let's Connect!
 
-- 🏅 Kaggle: *(add your Kaggle profile URL)*
-- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 🏅 Kaggle: *(https://www.kaggle.com/alrazzyth)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/alrazzy-t-h-359417237/)*
 
 ---
 
 <div align="center">
 
-*"Fall in love with the process, not just the leaderboard."* 🚀
+*"Fall in love with the process, not just the leaderboard."*
+*"I want to understand how ideas become mathematics, mathematics become algorithms, and algorithms become technology."*
 
 </div>
