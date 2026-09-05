@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm azzyth 👋
+# Hi, I'm azzy 👋
 
 **Data Science student @ Telkom University** · Kaggle competitor · Machine Learning & Deep Learning enthusiast
 
