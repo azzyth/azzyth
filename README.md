@@ -47,7 +47,6 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 <div align="center">
 
-*"Fall in love with the process, not just the leaderboard."*
 *"I want to understand how ideas become mathematics, mathematics become algorithms, and algorithms become technology."*
 
 </div>
