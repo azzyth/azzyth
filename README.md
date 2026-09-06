@@ -12,7 +12,7 @@
 
 ##  About Me ˙𐃷˙
 
-I'm a Data Science student at **Telkom University** who loves turning raw data into working models. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I focus on the full pipeline:
+I'm a Data Science student at **Telkom University** (as right now I am a freshmen) who loves turning raw data into working models. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I focus on the full pipeline:
 
 - **Preprocessing**  cleaning, parsing messy real-world data
 - **Feature engineering**  text (TF-IDF, embeddings), time-series, graph/network features
