@@ -20,6 +20,17 @@ I'm a Data Science student at **Telkom University** (as right now I am a freshme
 - **Deep learning**  PyTorch MLPs, TensorFlow/Keras, IndoBERT & multilingual SBERT
 - **Ensembling**  OOF blending, weighted ensembles, rankers
 
+##  Featured Project
+
+**GymBot** — a gym & nutrition tracker I actually use, built and improved over time to practice the whole *model → ship* loop.
+
+- Log meals and lifts (`/eat`, `/set`, `/weigh`) over **WhatsApp** or a zero-dependency terminal CLI
+- **Plateau detection from scratch** — Epley 1RM, least-squares regression, recent-trend analysis, plus a nutrition cross-check
+- Pure-Python core (SQLite) with a **13-test suite** and **GitHub Actions CI**
+
+[![CI](https://github.com/azzyth/gym-tracker-whatsapp-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/azzyth/gym-tracker-whatsapp-bot/actions/workflows/ci.yml)
+[**→ gym-tracker-whatsapp-bot**](https://github.com/azzyth/gym-tracker-whatsapp-bot)
+
 ##  Competition Portfolio
 
 | Competition | Type | Metric | Rank | Repo |
