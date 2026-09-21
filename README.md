@@ -38,6 +38,8 @@ I'm a Data Science student at **Telkom University** (as right now I am a freshme
 | Kaggle Datathon   Traffic Speed Forecasting | Time-series regression + NLP + graph | Speed RMSE | 234 / 276 | [repo](https://github.com/azzyth/kaggle-traffic-speed-forecasting) |
 | Kaggle Datathon Task 2   Wikipedia Next-Click Prediction | OCR + NLP classification | Ranking | 126 / 282 | [repo](https://github.com/azzyth/kaggle-wikipedia-click-prediction) |
 | Lomba Data IPB   AI Course Advisor | Learning-to-rank / recommendation | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
+| HoloMine   Breast Cancer Classification | Mammogram classification + CV ensemble | Macro-F1 | CV 0.683 / LB 0.657 | [repo](https://github.com/azzyth/holomine-breast-cancer-classification) |
+| HoloMine   Property Price from Sales Desc | NLP regression + Transformer/Ridge/LGBM blend | MAE | CV 336k / LB 429k | [repo](https://github.com/azzyth/holomine-property-price-prediction) |
 
 ## Tech Stack
 
