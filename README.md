@@ -24,7 +24,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 
 ## Featured Projects 🚀
 
-### 💸 [Dompet](https://github.com/azzyth/dompet) — a personal finance pipeline that actually ships
+### 💸 [Dompet](https://github.com/azzyth/dompet) a personal finance pipeline that actually ships
 
 [![CI](https://github.com/azzyth/dompet/actions/workflows/ci.yml/badge.svg)](https://github.com/azzyth/dompet/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
