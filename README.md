@@ -12,7 +12,7 @@
 
 ## About Me ˙𐃷˙
 
-I'm a Data Science student at **Telkom University** who loves turning raw data into working models — and then into things people can actually use. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I work the full pipeline:
+I'm a Data Science student at **Telkom University** who loves turning raw data into working models and then into things people can actually use. I compete in **Kaggle** and Indonesian data-mining competitions (Lomba Data), where I work the full pipeline:
 
 - **Preprocessing** — cleaning, parsing messy real-world data
 - **Feature engineering** — text (TF-IDF, embeddings), time-series, graph/network features
@@ -83,7 +83,7 @@ A robust z-score on **median + MAD** instead of mean/std, so one outlier purchas
 
 A pure-stdlib core (`dompet.core`, `dompet.analytics`) means `import dompet.core` works on a bare Python install, with adapters (IMAP, CSV, webhook, API) layered behind it. **81 tests**, where DB-backed and dashboard tests skip themselves when infrastructure is absent.
 
-My favourite detail in the whole repo: `/_stcore/health` returns `ok` **even when the Streamlit script crashes**, so a health check cannot distinguish a rendered page from a traceback — so the dashboard is *executed* under Streamlit's own `AppTest` harness instead.
+My favourite detail in the whole repo: `/_stcore/health` returns `ok` **even when the Streamlit script crashes**, so a health check cannot distinguish a rendered page from a traceback so the dashboard is *executed* under Streamlit's own `AppTest` harness instead.
 
 **CI runs real infrastructure:** a PostgreSQL service container, schema/seed/views loading, rules + demo data, the full test suite, categorizer training, and an API smoke test across every read endpoint.
 
