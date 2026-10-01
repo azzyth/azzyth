@@ -38,21 +38,21 @@ Dompet reads **my own Indonesian bank & e-wallet notifications** and turns them 
 
 #### Parsing 8 real notification formats
 
-BCA, Mandiri, BNI/BRI/CIMB/Permata/Danamon (generic) and GoPay/OVO/DANA/ShopeePay, with a lenient fallback. The genuinely hard parts are not regex — they're **locale semantics**:
+BCA, Mandiri, BNI/BRI/CIMB/Permata/Danamon (generic) and GoPay/OVO/DANA/ShopeePay, with a lenient fallback. The genuinely hard parts are not regex they're **locale semantics**:
 
 - `Rp50.000` = `50000` while `250,000.00` = `250000.00` — same field, two conventions
 - dates without a year (`24/09`) must be inferred from the message timestamp
 - **never mistaking a balance or an account number for the transaction amount**
 
-Every one of those cases is pinned by a fixture corpus — drop in a `.txt` plus a manifest entry and it's automatically under test.
+Every one of those cases is pinned by a fixture corpus drop in a `.txt` plus a manifest entry and it's automatically under test.
 
 #### Ingestion is idempotent by construction
 
-Each notification is stored verbatim in `raw_notifications` with a `UNIQUE content_hash` derived from its normalized text, and `transactions.raw_id` is `UNIQUE`. Re-polling the inbox, re-running an import, or a retrying webhook **cannot double-count** — the duplicate simply conflicts and is logged.
+Each notification is stored verbatim in `raw_notifications` with a `UNIQUE content_hash` derived from its normalized text, and `transactions.raw_id` is `UNIQUE`. Re-polling the inbox, re-running an import, or a retrying webhook **cannot double-count** the duplicate simply conflicts and is logged.
 
 #### Categorization: rules first, model second
 
-A deterministic keyword layer, then a TF-IDF classifier, then a safe `Other` default. The split is deliberate and I can justify it from a real failure: given the bare string `"GAJI BULANAN"`, the model predicts *Food & Drink* (it only ever saw that phrase behind a bank prefix in training) while the rule returns *Income* instantly. The model earns its place on the long tail — novel merchants the rules have never seen.
+A deterministic keyword layer, then a TF-IDF classifier, then a safe `Other` default. The split is deliberate and I can justify it from a real failure: given the bare string `"GAJI BULANAN"`, the model predicts *Food & Drink* (it only ever saw that phrase behind a bank prefix in training) while the rule returns *Income* instantly. The model earns its place on the long tail novel merchants the rules have never seen.
 
 Selected on **macro-F1** over a frozen stratified split (`seed: 42`, `test_size: 0.25`):
 
