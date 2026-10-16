@@ -31,10 +31,9 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | [**Game to Study Ratio**](https://github.com/azzyth/gamestu) | Tracks gaming vs study hours and predicts academic risk before a bad grade lands | Next.js · Supabase · FastAPI |
 | [**Dompet**](https://github.com/azzyth/dompet) | Turns my Indonesian bank/e-wallet notifications into auto-categorized transactions, forecasts and drift alerts | Python · Postgres · Docker |
 | [**GymBot**](https://github.com/azzyth/gym-tracker-whatsapp-bot) | Gym & nutrition tracker over WhatsApp with plateau detection | Python · SQLite |
+| [**GempaWaspada**](https://github.com/azzyth/gempayo) | Earthquake "when" and "how bad" for Indonesia: seismicity rates plus a LightGBM damage-severity classifier with population exposure | Python · LightGBM · FastAPI |
 
 ### Competitions
-
-
 
 | Competition | Type | Metric | Rank | Repo |
 |-------------|------|--------|------|------|
@@ -44,6 +43,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | Lomba Data IPB   AI Course Advisor | Learning-to-rank / recommendation | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
 | [HoloMine] Breast Cancer Classification Task 1 | Mammogram classification (Normal / Benign / Malignant) + CV ensemble | Macro-F1 | participated | [repo](https://github.com/azzyth/holomine-breast-cancer-classification) |
 | [HoloMine] Property Price Prediction From Sales Desc Task 2 | NLP regression + Transformer/Ridge/LGBM blend | MAE | participated | [repo](https://github.com/azzyth/holomine-property-price-prediction) |
+| JOINTS UGM 2026: Earthquake Risk & Impact | Seismicity rates + damage-severity classification | Macro-F1 | submitted | [repo](https://github.com/azzyth/gempayo) |
 
 ## Tech Stack 🛠️
 
