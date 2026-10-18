@@ -31,6 +31,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | [**Game to Study Ratio**](https://github.com/azzyth/gamestu) | Tracks gaming vs study hours and predicts academic risk before a bad grade lands | Next.js · Supabase · FastAPI |
 | [**Dompet**](https://github.com/azzyth/dompet) | Turns my Indonesian bank/e-wallet notifications into auto-categorized transactions, forecasts and drift alerts | Python · Postgres · Docker |
 | [**GymBot**](https://github.com/azzyth/gym-tracker-whatsapp-bot) | Gym & nutrition tracker over WhatsApp with plateau detection | Python · SQLite |
+| [**GempaWaspada**](https://github.com/azzyth/gempayo) | Earthquake "when" and "how bad" for Indonesia: seismicity rates plus a LightGBM damage-severity classifier with population exposure | Python · LightGBM · FastAPI |
 | [**Classification ML Dashboard**](https://github.com/azzyth/classification-dashboard) | Real-time classification dashboard with auto-EDA visualization: upload CSV → auto-detect features → train model → 5 plot types generated automatically | Python · FastAPI · scikit-learn · matplotlib |
 
 ### Competitions
