@@ -33,6 +33,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | [**GymBot**](https://github.com/azzyth/gym-tracker-whatsapp-bot) | Gym & nutrition tracker over WhatsApp with plateau detection | Python · SQLite |
 | [**GempaWaspada**](https://github.com/azzyth/gempayo) | Earthquake "when" and "how bad" for Indonesia: seismicity rates plus a LightGBM damage-severity classifier with population exposure | Python · LightGBM · FastAPI |
 | [**Classification ML Dashboard**](https://github.com/azzyth/classification-dashboard) | Real-time classification dashboard with auto-EDA visualization: upload CSV → auto-detect features → train model → 5 plot types generated automatically | Python · FastAPI · scikit-learn · matplotlib |
+| [**AlgoEdge (Tim IKIMASE)**](https://github.com/azzyth/winter-ikimase) | ADIKARA 2026 entrepreneurship entry: licenses an MT5 Expert Advisor for XAUUSD backed by a full Python backtest engine — 88.5% backtest return, 6.55% max drawdown, RR 1:2.5 | Python · MQL5 · pandas |
 
 ### Competitions
 
