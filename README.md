@@ -32,6 +32,7 @@ What I use depends on the data. Tabular and text problems usually go to LightGBM
 | [**GempaWaspada**](https://github.com/azzyth/gempayo) | Earthquake "when" and "how bad" for Indonesia: seismicity rates plus a LightGBM damage-severity classifier with population exposure | Python · LightGBM · FastAPI |
 | [**Classification ML Dashboard**](https://github.com/azzyth/classification-dashboard) | Real-time classification dashboard with auto-EDA visualization: upload CSV, auto-detect features, train model, get 5 plot types generated automatically | Python · FastAPI · scikit-learn · matplotlib |
 | [**AlgoEdge (Tim IKIMASE)**](https://github.com/azzyth/winter-ikimase) | ADIKARA 2026 entrepreneurship entry: licenses an MT5 Expert Advisor for XAUUSD backed by a full Python backtest engine, 88.5% backtest return, 6.55% max drawdown, RR 1:2.5 | Python · MQL5 · pandas |
+| [**Churn Service**](https://github.com/azzyth/churn-service) | Telco churn prediction end to end: frozen splits, threshold picked from FN = 5x FP cost, PSI drift monitoring, Dockerised API with a noir UI, test ROC-AUC 0.8448 | Python · scikit-learn · LightGBM · FastAPI · Docker |
 
 ### Competitions
 
