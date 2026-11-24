@@ -22,7 +22,7 @@ I'm a Data Science student at **Telkom University** who loves turning raw data i
 
 Lately I've been deliberately building the other half of the job: **databases, APIs, containerization, CI, and deployment.** A model that never ships is a notebook.
 
-## Projects 🚀
+## Projects 
 
 ### Shipped products
 
@@ -48,7 +48,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | JOINTS UGM 2026: Earthquake Risk & Impact | Seismicity rates + damage-severity classification | Macro-F1 | submitted | [repo](https://github.com/azzyth/gempayo) |
 | ADIKARA 2026   Tweet Likes Prediction | Text + tabular regression, log1p target, hurdle LGBM + NNLS blend | RMSLE | 20 / 55 | [repo](https://github.com/azzyth/adikara) |
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 **Languages:** Python · SQL · TypeScript
 
@@ -70,7 +70,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 
 **Data viz:** matplotlib · seaborn
 
-## Let's Connect! 📫
+## Let's Connect! 
 
 - 🏅 Kaggle: [alrazzyth](https://www.kaggle.com/alrazzyth)
 - 💼 LinkedIn: [Alrazzy T H](https://www.linkedin.com/in/alrazzy-t-h-359417237/)
