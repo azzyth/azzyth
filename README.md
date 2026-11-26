@@ -103,15 +103,15 @@ Telkom University, Indonesia
 
 ## Competition Record
 
-| Competition | Task | Metric | Result |
-|:---|:---|:---:|:---:|
-| DataVidia 11.0 Task 1 | Shipment handling status classification | Macro-F1 | 101 / 213 |
-| ADIKARA 2026 | Tweet likes prediction | RMSLE | 20 / 55 |
-| Lomba Data IPB | AI course advisor | NDCG@5 | 27 / 42 |
-| DATASCAPE 2026 | Package condition classification | Macro-F1 | 67 / 90 |
-| Kaggle Datathon | Wikipedia next-click prediction | Ranking | 126 / 282 |
-| Kaggle Datathon | Traffic speed forecasting | RMSE | 234 / 276 |
-| JOINTS UGM 2026 | Earthquake risk & impact | Macro-F1 | submitted |
+| Competition | Task | Metric | Result | Repo |
+|:---|:---|:---:|:---:|:---:|
+| [DataVidia 11.0 Task 1](https://github.com/azzyth/datavidia-11-task1) | Shipment handling status classification | Macro-F1 | 101 / 213 | [repo](https://github.com/azzyth/datavidia-11-task1) |
+| [ADIKARA 2026](https://github.com/azzyth/adikara) | Tweet likes prediction | RMSLE | 20 / 55 | [repo](https://github.com/azzyth/adikara) |
+| [Lomba Data IPB](https://github.com/azzyth/intelligo-ai-course-advisor) | AI course advisor | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
+| [DATASCAPE 2026](https://github.com/azzyth/datascape-package-condition-classification) | Package condition classification | Macro-F1 | 67 / 90 | [repo](https://github.com/azzyth/datascape-package-condition-classification) |
+| [Kaggle Datathon](https://github.com/azzyth/kaggle-wikipedia-click-prediction) | Wikipedia next-click prediction | Ranking | 126 / 282 | [repo](https://github.com/azzyth/kaggle-wikipedia-click-prediction) |
+| [Kaggle Datathon](https://github.com/azzyth/kaggle-traffic-speed-forecasting) | Traffic speed forecasting | RMSE | 234 / 276 | [repo](https://github.com/azzyth/kaggle-traffic-speed-forecasting) |
+| [JOINTS UGM 2026](https://github.com/azzyth/gempayo) | Earthquake risk & impact | Macro-F1 | submitted | [repo](https://github.com/azzyth/gempayo) |
 
 <br/>
 
