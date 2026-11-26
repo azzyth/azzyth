@@ -47,6 +47,7 @@ Lately I've been deliberately building the other half of the job: **databases, A
 | [HoloMine] Property Price Prediction From Sales Desc Task 2 | NLP regression + Transformer/Ridge/LGBM blend | MAE | participated | [repo](https://github.com/azzyth/holomine-property-price-prediction) |
 | JOINTS UGM 2026: Earthquake Risk & Impact | Seismicity rates + damage-severity classification | Macro-F1 | submitted | [repo](https://github.com/azzyth/gempayo) |
 | ADIKARA 2026   Tweet Likes Prediction | Text + tabular regression, log1p target, hurdle LGBM + NNLS blend | RMSLE | 20 / 55 | [repo](https://github.com/azzyth/adikara) |
+| DataVidia 11.0 Task 1   Shipment Handling Status | 7-class tabular classification on 9 relational tables, nested entity target encoding | Macro-F1 | participated | [repo](https://github.com/azzyth/datavidia-11-task1) |
 
 ## Tech Stack 
 
