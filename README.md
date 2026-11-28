@@ -105,7 +105,7 @@ Telkom University, Indonesia
 
 | Competition | Task | Metric | Result | Repo |
 |:---|:---|:---:|:---:|:---:|
-| [DataVidia 11.0 Task 1](https://github.com/azzyth/datavidia-11-task1) | Shipment handling status classification | Macro-F1 | 101 / 213 | [repo](https://github.com/azzyth/datavidia-11-task1) |
+| [DataVidia 11.0 Task 1](https://github.com/azzyth/datavidia-11-task1) | shipment handling status classification | Macro-F1 | 101 / 213 | [repo](https://github.com/azzyth/datavidia-11-task1) |
 | [ADIKARA 2026](https://github.com/azzyth/adikara) | Tweet likes prediction | RMSLE | 20 / 55 | [repo](https://github.com/azzyth/adikara) |
 | [Lomba Data IPB](https://github.com/azzyth/intelligo-ai-course-advisor) | AI course advisor | NDCG@5 | 27 / 42 | [repo](https://github.com/azzyth/intelligo-ai-course-advisor) |
 | [DATASCAPE 2026](https://github.com/azzyth/datascape-package-condition-classification) | Package condition classification | Macro-F1 | 67 / 90 | [repo](https://github.com/azzyth/datascape-package-condition-classification) |
